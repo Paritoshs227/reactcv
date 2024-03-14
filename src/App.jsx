@@ -309,7 +309,7 @@ function App() {
                         <li className="mb-2">BootStrap5/Tailwind</li>
                         <li className="mb-2">Jquery/JSON/REST APIs</li>
                         <li className="mb-2">GIT/GITHUB/SVN</li>
-                        <li className="mb-2">AJAX/REACT/REDUX</li>
+                        {/* <li className="mb-2">AJAX/REACT/REDUX</li> */}
 
 
                       </ul>
