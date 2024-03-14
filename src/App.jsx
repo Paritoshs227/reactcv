@@ -305,8 +305,8 @@ function App() {
                     <div className="item">
                       <h4 className="item-title">Technical</h4>
                       <ul className="list-unstyled resume-skills-list">
-                        <li className="mb-2">HTML 5/CSS3/JavaScript/ES6</li>
-                        <li className="mb-2">BootStrap5/Tailwind</li>
+                        <li className="mb-2">HTML 5/CSS3/BootStrap5</li>
+                        <li className="mb-2">JavaScript/ES6</li>
                         <li className="mb-2">Jquery/JSON/REST APIs</li>
                         <li className="mb-2">GIT/GITHUB/SVN</li>
                         {/* <li className="mb-2">AJAX/REACT/REDUX</li> */}
