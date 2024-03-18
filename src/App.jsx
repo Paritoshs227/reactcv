@@ -184,7 +184,7 @@ function App() {
                         </ul>
                       </div>
                     </div>
-                    <div className="item mb-3">
+                    {/* <div className="item mb-3">
                       <div className="item-heading row align-items-center mb-2">
                         <h4 className="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">Compute Soft
                           (Hosting Solutions Site)</h4>
@@ -204,7 +204,7 @@ function App() {
                           </li>
                         </ul>
                       </div>
-                    </div>
+                    </div> */}
                     <div className="item mb-3">
                       <div className="item-heading row align-items-center mb-2">
                         <h4 className="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">JAN AADHAAR</h4>
@@ -304,7 +304,7 @@ function App() {
                     <h3 className="text-uppercase resume-section-heading mb-4">Skills</h3>
                     <div className="item">
                       <h4 className="item-title">Technical</h4>
-                      <ul className="list-unstyled resume-skills-list">
+                      <ol className="list-unstyled resume-skills-list">
                         <li className="mb-2">HTML 5/CSS3/BootStrap5</li>
                         <li className="mb-2">JavaScript/ES6</li>
                         <li className="mb-2">Jquery/JSON/REST APIs</li>
@@ -312,7 +312,7 @@ function App() {
                         {/* <li className="mb-2">AJAX/REACT/REDUX</li> */}
 
 
-                      </ul>
+                      </ol>
                     </div>
                     <div className="item">
                       <h4 className="item-title">Professional</h4>
