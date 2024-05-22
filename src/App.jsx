@@ -27,8 +27,8 @@ function App() {
               </div>
             </div>
             <div className="resume-intro py-3">
-            <hr/>
-              <div className="row align-items-center">              
+              <hr />
+              <div className="row align-items-center">
                 <div className="col text-start">
                   <p className="mb-0">Enthusiastic and collaborative Software Developer, eager to leverage my
                     coding skills and
@@ -37,7 +37,7 @@ function App() {
                     seeking a role to contribute to innovative software solutions. </p>
                 </div>
               </div>
-              <hr/>
+              <hr />
             </div>
             <div className="resume-body">
               <div className="row">
@@ -125,7 +125,57 @@ function App() {
 
                   </section>
 
-
+                  <section className="project-section py-3">
+                    <h3 className="text-uppercase resume-section-heading mb-4">React Ui Side Projects</h3>
+                    <div className="item mb-3">
+                      <div className="item-heading row align-items-center mb-2">
+                        <h4 className="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">Resturant Template (Food App)
+                        </h4>
+                        <div
+                          className="item-meta col-12 col-md-6 col-lg-4 text-muted text-start text-md-end">
+                          Side Project</div>
+                      </div>
+                      <div className="item-content">
+                        <ul>    
+                          <li><strong>SKILLS:-</strong>React js, React-Router, React-Hooks, Tailwind Css.</li>
+                          <li><strong>URL:-</strong><a href="https://paritoshs227.github.io/resturant-template-reactjs-react-router-tailwind"
+                            target="_blank">https://paritoshs227.github.io/resturant-template-reactjs-react-router-tailwind</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div className="item mb-3">
+                      <div className="item-heading row align-items-center mb-2">
+                        <h4 className="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">Recepie Page
+                        </h4>
+                        <div
+                          className="item-meta col-12 col-md-6 col-lg-4 text-muted text-start text-md-end">
+                          Side Project</div>
+                      </div>
+                      <div className="item-content">
+                        <ul>    
+                          <li><strong>SKILLS:-</strong>React js, Bootstrap 5.</li>
+                          <li><strong>URL:-</strong><a href="https://recipe-page-sigma-sepia.vercel.app/"
+                            target="_blank">https://recipe-page-sigma-sepia.vercel.app/</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div className="item mb-3">
+                      <div className="item-heading row align-items-center mb-2">
+                        <h4 className="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">Blog Page
+                        </h4>
+                        <div
+                          className="item-meta col-12 col-md-6 col-lg-4 text-muted text-start text-md-end">
+                          Side Project</div>
+                      </div>
+                      <div className="item-content">
+                        <ul>    
+                          <li><strong>SKILLS:-</strong>React js, Bootstrap 5.</li>
+                          <li><strong>URL:-</strong><a href="https://blogpreviewcard-nu.vercel.app/"
+                            target="_blank">https://blogpreviewcard-nu.vercel.app/</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                  </section>
                   <section className="project-section py-3">
                     <h3 className="text-uppercase resume-section-heading mb-4">Projects</h3>
                     <div className="item mb-3">
@@ -140,7 +190,7 @@ function App() {
                         <ul>
                           <li><strong>Developed UI:-</strong> Designed and implemented user
                             interfaces.</li>
-              
+
                           <li><strong>SKILLS:-</strong>React js, React-Router, React-Hooks, Tailwind Css.</li>
                           <li><strong>URL:-</strong><a href="https://paritoshs227.github.io/resturant-template-reactjs-react-router-tailwind"
                             target="_blank">https://paritoshs227.github.io/resturant-template-reactjs-react-router-tailwind</a></li>
@@ -328,7 +378,7 @@ function App() {
                         <li className="mb-2">JavaScript/ES6</li>
                         <li className="mb-2">Jquery/JSON/REST APIs</li>
                         <li className="mb-2">GIT/GITHUB/SVN</li>
-                        {/* <li className="mb-2">AJAX/REACT/REDUX</li> */}
+                        <li className="mb-2">REACT/REDUX</li>
 
 
                       </ol>
@@ -347,23 +397,23 @@ function App() {
                     <h3 className="text-uppercase resume-section-heading mb-4">Education</h3>
                     <ul className="list-unstyled resume-education-list">
                       <li className="mb-3">
-                        <div className="resume-degree font-weight-bold">MCA</div>
+                        <div className="resume-degree font-weight-bold"><strong>MCA</strong></div>
                         <div className="resume-degree-org text-muted">A P J Abdul Kalam Technical University
                           (Formerly UPTU)</div>
                         <div className="resume-degree-time text-muted">2017</div>
                       </li>
                       <li className="mb-3">
-                        <div className="resume-degree font-weight-bold">BCA</div>
+                        <div className="resume-degree font-weight-bold"><strong>BCA</strong></div>
                         <div className="resume-degree-org text-muted">Sikkim Manipal University DE</div>
                         <div className="resume-degree-time text-muted">2015</div>
                       </li>
                       <li className="mb-3">
-                        <div className="resume-degree font-weight-bold">12th</div>
+                        <div className="resume-degree font-weight-bold"><strong>12th</strong></div>
                         <div className="resume-degree-org text-muted">MMMIC Gorakhpur (U.P BOARD)</div>
                         <div className="resume-degree-time text-muted">2011</div>
                       </li>
                       <li className="mb-3">
-                        <div className="resume-degree font-weight-bold">10th</div>
+                        <div className="resume-degree font-weight-bold"><strong>10th</strong></div>
                         <div className="resume-degree-org text-muted">Govt. Jubilee Inter College Gorakhpur
                           (U.P BOARD)</div>
                         <div className="resume-degree-time text-muted">2009</div>
@@ -382,7 +432,7 @@ function App() {
                 </aside>
               </div>
             </div>
-            <hr/>
+            <hr />
             <div className="resume-footer text-center">
               <ul className="resume-social-list list-inline mx-auto mb-0 d-inline-block text-muted">
                 <li className="list-inline-item mb-lg-0 me-3"><a className="resume-link" target="_blank"
