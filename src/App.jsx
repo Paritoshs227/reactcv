@@ -130,6 +130,25 @@ function App() {
                     <h3 className="text-uppercase resume-section-heading mb-4">Projects</h3>
                     <div className="item mb-3">
                       <div className="item-heading row align-items-center mb-2">
+                        <h4 className="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">Resturant Template (Food App)
+                        </h4>
+                        <div
+                          className="item-meta col-12 col-md-6 col-lg-4 text-muted text-start text-md-end">
+                          Side Project</div>
+                      </div>
+                      <div className="item-content">
+                        <ul>
+                          <li><strong>Developed UI:-</strong> Designed and implemented user
+                            interfaces.</li>
+              
+                          <li><strong>SKILLS:-</strong>React js, React-Router, React-Hooks, Tailwind Css.</li>
+                          <li><strong>URL:-</strong><a href="https://paritoshs227.github.io/resturant-template-reactjs-react-router-tailwind"
+                            target="_blank">https://paritoshs227.github.io/resturant-template-reactjs-react-router-tailwind</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div className="item mb-3">
+                      <div className="item-heading row align-items-center mb-2">
                         <h4 className="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">Xtwebhost (Hosting
                           Products Site)
                         </h4>
