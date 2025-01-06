@@ -1,0 +1,146 @@
+.text-blue-1 {
+    color: #3B82F6;
+}
+
+.bg-blue-1 {
+    background-color: #3B82F6;
+}
+
+.social-icons {
+    scale: .9;
+}
+
+.social-icons:hover {
+    scale: 1;
+}
+
+::-webkit-scrollbar {
+    width: 3px;
+}
+
+::-webkit-scrollbar-track {
+    background: white;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #3B82F6;
+    border-radius: 3px;
+}
+
+/* div:hover::-webkit-scrollbar-thumb {
+    background: gray;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: black !important;
+} */
+
+.navbar .nav-link {
+    font-weight: 600;
+    color: #000;
+}
+
+.scroll-container {
+    height: 55vh;
+    overflow-y: scroll;
+    padding: 0 1rem;
+}
+
+.section-1 {
+    background-image: url("../public/images/cloudBg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.section-1 .label-1 {
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: #000;
+}
+
+.section-1 .label-2 {
+    font-size: 1.75rem;
+    font-weight: 800;
+}
+
+.section-1 .label-3 {
+    font-size: 1rem;
+    font-weight: 500;
+    color: #000;
+}
+
+.section-1 .resume-link {
+    padding: .75rem 5rem;
+    font-weight: 500;
+    font-size: 1.25rem;
+}
+
+.section-2 .heading,
+.section-3 .heading,
+.section-4 .heading,
+.section-5 .heading,
+.section-6 .heading,
+.section-7 .heading {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #000;
+}
+
+.section-2 .tech-img {
+    width: 20%;
+    object-fit: contain;
+    aspect-ratio: 3/4;
+}
+
+.section-2 .tech-label {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #000;
+}
+
+.section-4 .card .card-body h5 {
+    margin-bottom: .5rem;
+}
+
+.section-4 .card .card-body p {
+    margin-bottom: .5rem;
+    line-height: 1.2;
+}
+
+.section-5 .card .card-body h6 {
+    margin: 0;
+}
+
+.section-5 .card .card-body p {
+    margin: 0;
+    line-height: 1.2;
+}
+
+
+
+@media (min-width: 768px) { 
+    .section-1 .label-1 {
+        font-size: 1.75rem;  
+    }
+    .section-1 .label-2 {
+        font-size: 2.25rem;  
+    }
+    .section-1 .label-3 {
+        font-size: 1.25rem;  
+    }
+ }
+
+
+@media (min-width: 992px) { 
+    .section-1 .label-1 {
+        font-size: 1.75rem;  
+    }
+    .section-1 .label-2 {
+        font-size: 2.5rem;  
+    }
+    .section-1 .label-3 {
+        font-size: 1.5rem;  
+    }
+}
