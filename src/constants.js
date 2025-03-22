@@ -1,3 +1,11 @@
+import liberty from "../public/documents/liberty.pdf";
+import adityabirla from "../public/documents/adityabirla.pdf";
+import nrfsi from "../public/documents/nrfsi.pdf";
+import d2c from "../public/documents/d2c.pdf";
+import tata2 from "../public/documents/tata2.pdf";
+import hiib from "../public/documents/hiib.pdf";
+
+
 export const techStack = [
 
  
@@ -76,6 +84,42 @@ export const serviceData = [
 
 export const projectData = [
   {
+    name: 'Tata new Portal  (Binary Semantics Limited)',   
+    skill:'React, Tailwind, Material UI, Html5, Css3, Bootstrap 4, JavaScript, JQuery ',
+    responsibilities:"- Designed and implemented user interfaces according to given Figma Design.",
+    src:tata2,
+  },
+  {
+    name: 'Tata D2C  (Binary Semantics Limited)',   
+    skill:'React, Tailwind, Material UI, Html 5, Css3, Javascript, JQuery',
+    responsibilities:"- Designed and implemented user interfaces according to given Figma Design.",
+    src:d2c,
+  },
+  {
+    name: 'Hyundai India Insurance Broking  (Binary Semantics Limited)',   
+    skill:'Html5, Css3, Bootstrap 4, JavaScript, JQuery ',
+    responsibilities:"- Designed and implemented user interfaces according to given Figma Design.",
+    src:hiib,
+  },
+  {
+    name: 'Nissan Renault Insurance  (Binary Semantics Limited)',   
+    skill:'Html5, Css3, Bootstrap 5, JavaScript, JQuery ',
+    responsibilities:"- Designed and implemented user interfaces according to given Figma Design.",
+    src:nrfsi,
+  },
+  {
+    name: 'Aditya Birla Insurance  (Binary Semantics Limited)',   
+    skill:'Html5, Css3, Bootstrap 4, JavaScript, JQuery ',
+    responsibilities:"- Designed and implemented user interfaces according to given Figma Design.",
+    src:adityabirla,
+  },
+  {
+    name: 'Liberty Insurance (Binary Semantics Limited)',   
+    skill:'Html5, Css3, Bootstrap 4, JavaScript, JQuery ',
+    responsibilities:"- Designed and implemented user interfaces according to given Figma Design.",
+    src:liberty,
+  },
+  {
     name: 'Resturant Template (Food App-Side Project)',   
     skill:'React Js, React-Router, React-Hooks, Tailwind.',
     responsibilities:"- Designed and implemented user interfaces.",
@@ -132,7 +176,8 @@ export const projectData = [
     summary: 'An app for monitor the supply chain and distribution of Ration across the state.',
     skill:'HTML, CSS3 and JavaScript and jQuery',
     responsibilities:'Worked on User Interface as a Team Member. Maintaining the mobile application for Android and IOS platforms. Collaborated with the backend team form implement REST and SOAP APIs. Implemented High charts for statistical data representation.',
-    url:'https://play.google.com/store/apps/details?id=com.EPDS&hl=en_IN'
+    url:'https://play.google.com/store/apps/details?id=com.EPDS&hl=en_IN',
+    
   }
 
 

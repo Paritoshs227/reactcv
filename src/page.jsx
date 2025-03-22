@@ -236,7 +236,12 @@ function page() {
                                                 )}
                                             </div>
                                             <div className="card-footer text-end bg-white border-0">
-                                                <a href={el.url} className="btn btn-primary btn-sm bg-blue-1" target="_blank">See more</a>
+                                            {el.url && (
+                                                     <a href={el.url} className="btn btn-primary btn-sm bg-blue-1" target="_blank">See more</a>
+                                                )}
+                                                  {el.src && (
+                                                     <a href={el.src} className="btn btn-primary btn-sm bg-blue-1" target="_blank">See more</a>
+                                                )}
                                             </div>
                                         </div>
                                     </div>
