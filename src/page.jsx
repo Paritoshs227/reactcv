@@ -272,7 +272,7 @@ function page() {
 
                             <div className="card mb-3">
                                 <div className="card-header text-blue-1">
-                                    <strong> Frontend Developer | FREELANCE (SEP 2022 –June 2024)</strong>
+                                    <strong> Consultant HTML Developer | ComputeSoft Technologies (MAY 2022 – June 2024)</strong>
                                 </div>
                                 <div className="card-body">
                                     <h6>&#10070; Managed website development projects:</h6>
