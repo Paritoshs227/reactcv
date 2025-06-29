@@ -138,13 +138,13 @@ export const projectData = [
     url:'https://blogpreviewcard-nu.vercel.app/'
   },
   {
-    name: 'Xtwebhost (Hosting Products Site)(FREELANCE)',   
+    name: 'Xtwebhost (Hosting Products Site)(ComputeSoft Technologies)',   
     skill:'Html, CSS, Javascript, jQuery, and BootStrap5. ',
     responsibilities:"Designed and implemented user interfaces. Worked with the backend team to integrate user-facing features. Implemented Namesilo's APIs for domain search and purchase. Integrated Whmcs panel for hosting product transactions. Integrated AgreePay Payment Gateway into Whmcs Panel.",
     url:'https://xtwebhost.com/'
   },
   {
-    name: 'Compute Soft (Hosting Solutions Site) (FREELANCE) ',   
+    name: 'Compute Soft (Hosting Solutions Site) (ComputeSoft Technologies) ',   
     skill:'Html, CSS, Javascript, jQuery, and BootStrap5. ',
     responsibilities:'Customized Bootstrap template according to client requirements. ',
     url:'https://www.computesoft.in/'
