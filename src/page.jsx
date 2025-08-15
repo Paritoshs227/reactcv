@@ -259,7 +259,7 @@ function page() {
                                     <strong> Consultant HTML Developer | Binary Semantics Limited (June 2024 – PRESENT)</strong>
                                 </div>
                                 <div className="card-body">
-                                    <h6>&#10070; Maintained 15+ Motor Insurance brokers web portals :</h6>
+                                    <h6>&#10070; Maintained 20+ Motor Insurance brokers web portals :</h6>
                                     <p className="ms-4"><small>Utilized HTML, CSS, Bootstrap, React, Tailwind and MUI for the creation and
                                         Maintenance of responsive web portal (e.g. Dealer portal, CRM portal, Admin Portal).</small></p>
                                     <h6>&#10070; Converted UI Designs from Figma:</h6>
